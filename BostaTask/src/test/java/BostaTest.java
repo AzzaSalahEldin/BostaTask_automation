@@ -11,6 +11,7 @@ public class BostaTest {
     @Test
     public void testXSSInContactName() {
         RestAssured.baseURI = BASE_URI;
+        System.out.println(TOKEN);
 
         String body = """
         {
