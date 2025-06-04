@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-04T12:38:56 GMT+03:00" name="Surefire suite" finished-at="2025-06-04T12:39:01 GMT+03:00" duration-ms="4118">
+    <groups>
+    </groups>
+    <test started-at="2025-06-04T12:38:56 GMT+03:00" name="Surefire test" finished-at="2025-06-04T12:39:01 GMT+03:00" duration-ms="4118">
+      <class name="BostaTest">
+        <test-method signature="testXSSInContactName()[pri:0, instance:BostaTest@1372ed45]" started-at="2025-06-04T12:38:57 GMT+03:00" name="testXSSInContactName" finished-at="2025-06-04T12:39:01 GMT+03:00" duration-ms="4067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testXSSInContactName -->
+      </class> <!-- BostaTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
